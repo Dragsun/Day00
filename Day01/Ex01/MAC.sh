@@ -1,0 +1,1 @@
+(Get-NetAdapter -name "wi-fi").macaddress
